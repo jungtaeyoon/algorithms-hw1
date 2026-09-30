@@ -4,5 +4,7 @@
 
 /* a[0..n-1]을 제자리에서 오름차순으로 정렬한다. */
 void bubbleSort(int a[], int n);
-
+void insertionSort(int a[], int n);
+void mergeSort(int a[], int n);
+void heapSort(int a[], int n);
 #endif /* SORT_H */
